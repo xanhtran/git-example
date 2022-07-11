@@ -1,5 +1,5 @@
 
-Xin chào, đây là demo branch2
+Xin chào, đây là demo branch2 vaf branch1
 
 Xin chào, đây là demo branch1
 
