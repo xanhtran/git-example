@@ -7,3 +7,5 @@ Xin chào, đây là demo branch 1
 New version 2022 branch 1
 
 Recently updated 123
+
+Reset 2 da ne
