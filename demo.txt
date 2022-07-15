@@ -7,6 +7,9 @@ Xin chào, đây là demo branch 1
 New version 2022 branch 1
 
 Recently updated 123
+<<<<<<< HEAD
 
 Reset 2 day ne
 abcsd
+=======
+>>>>>>> parent of ca77afd... reset2
